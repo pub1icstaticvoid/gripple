@@ -6,10 +6,6 @@ After downloading the gripple folder, the device needs python 3.12 or later and 
 to download PIL, type in terminal: pip install pillow
 
 
-to run:
+to run, click on gripple.bat
 
-open terminal with path to gripple folder
-
-type python gripple.py
-
-enjoy
+if terminal opens, that's normal and does not do anything
