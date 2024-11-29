@@ -1,9 +1,15 @@
 # gripple
 Death Grips Wordle clone
 
-After downloading the gripple folder, to run it:
-make sure the current working directory is the gripple folder
+After downloading the gripple folder, the device needs python 3.12 or later and PIL is installed
 
-in terminal:
-cd gripple
-python gripple.py
+to download PIL, type in terminal: pip install pillow
+
+
+to run:
+
+open terminal with path to gripple folder
+
+type python gripple.py
+
+enjoy
